@@ -65,6 +65,7 @@ No estaba trabada. `vi` funciona con **modos**, y esa es toda la idea que hay qu
 | `:w` | Guarda sin salir | Lo uso cada tanto por miedo a perder lo que llevo |
 | `:wq` / `:x` / `ZZ` | Guarda y sale | `:wq` es el que se me quedó grabado |
 | `:q!` | Sale sin guardar | Mi salida de emergencia cuando dejé el archivo hecho un desastre |
+| `yy` | Copia la línea completa | Copié la primera línea y la pegué al final con `p` |
 
 ---
 
