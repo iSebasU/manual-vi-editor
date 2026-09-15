@@ -95,7 +95,7 @@ Dos consejos que me habría gustado que alguien me diera antes de empezar:
 
 ## 🙌 Créditos
 
-- **Guía de laboratorio original:** *Guía de laboratorio # 6 — La Edición de Texto Básica* y *Laboratorio 7 — Tu repositorio GitHub del editor vi*, del curso **Seminario Linux**.
+ **Seminario Linux**.
 - **Docente:** Bayron Jesit Ospina Cifuentes — bayron.ospinaci@amigo.edu.co
 - **Institución:** Universidad Católica Luis Amigó (FUNLAM), Medellín.
 - **Autor:** Sebastian Jaramillo Benitez — [@iSebasU](https://github.com/iSebasU)
