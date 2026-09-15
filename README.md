@@ -1,4 +1,4 @@
-# 📝 Manual de supervivencia del editor vi
+# 📝 Manual de supervivencia del editor vi.
 
 > Mi propia guía del editor `vi`, escrita mientras lo aprendía a los golpes: qué me costó, en qué me equivoqué y los comandos que terminé usando de verdad.
 
