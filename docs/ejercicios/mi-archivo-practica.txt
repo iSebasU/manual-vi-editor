@@ -1,0 +1,3 @@
+Welcome to the vi editor.
+It is a very powerful text editor.
+Especially for those who master it.
